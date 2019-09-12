@@ -1,0 +1,10 @@
+
+Note:
+
+ 1.private variable should be accessible with the classes , methods / main method.
+ 2.private variable should not be access out classes, methods and outside the package.
+ 3.Class and Interface cannot be private.
+ 4.private variable access by the getter and setter property rule.
+ 5.If possible? private methods of a class be accessed from outside of a class in Java
+ 6.classes, methods, variables and constructors that are declared private can not be access outside the classes, methods and outside package.
+ 7.Private access modifier is the most restrictive access level.

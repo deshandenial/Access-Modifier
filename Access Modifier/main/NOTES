@@ -1,0 +1,8 @@
+
+Note:
+
+ 1.public variable should be accessible with the classes , methods / main method with in the package.
+ 2.public variable should be access out classes, methods and outside the package by using import the class file and extends keywords
+ 3.Class and Interface can be public.
+ 5.If possible? multiple class should be access the property by using the "extends" keyword inside of a package in Java
+ 6.public access modifier is the most freely access level
